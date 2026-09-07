@@ -1,15 +1,16 @@
-Cybersecurity Notes
-Applied Computer Science student | Chuka university| Focus: Cybersecurity
+🔐 Password Strength Checker
 
-About Me
-Learning Cybersecurity, Python, Linux, Networking.
-Goal: Become a Cybersecurity Analyst in Kenya.
+My first Cybersecurity project as an Applied Computer Science student @ Chuka University.
 
-Projects
-- Password Checker
-- Port Scanner
+What it does
+Python tool that checks if password is WEAK / MEDIUM / STRONG.
 
-Tools
-Python | Linux | Git | Wireshark
+How to run
+1. Install Pydroid 3
+2. Run Checker.py
 
-Contact: Chuka university student 
+Proof it works
+![Proof](Screenshot_20260907-205109.png)
+
+Author: Griffin-cys
+
