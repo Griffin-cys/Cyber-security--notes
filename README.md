@@ -1,16 +1,28 @@
 🔐 Password Strength Checker
 
-My first Cybersecurity project as an Applied Computer Science student @ Chuka University.
+A simple Python tool to check if your password is weak, medium, or strong. Built as part of my Cybersecurity learning journey at Chuka University.
 
-What it does
-Python tool that checks if password is WEAK / MEDIUM / STRONG.
+🚀 Features
+- Checks length, uppercase, lowercase, numbers, symbols
+- Gives instant feedback: Weak / Medium / Strong
+- 100% Python, no extra libraries needed
 
-How to run
-1. Install Pydroid 3
-2. Run Checker.py
+🛠️ How to Run
+```bash
+python Checker.py
+📸 Demo
+Enter password: 12345
+Result: Weak - Add more characters!
 
-Proof it works
-![Proof](Screenshot_20260907-205109.png)
+Enter password: Griffin@2026
+Result: Strong ✅
+🎯 Why I built this
+Learning how to prevent brute-force attacks. Weak passwords are the #1 reason accounts get hacked in Kenya.
 
-Author: Griffin-cys
+👨‍💻 Author
+*Griffin - Chuka University*
+Applied Computer Science | Cybersecurity Enthusiast
+GitHub: @Griffin-cys
 
+⭐ Support
+If you like this, give it a star! It motivates me to build Project 2: Port Scanner.
